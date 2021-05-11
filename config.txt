@@ -1,2 +1,2 @@
-type=website
+type=video
 path=media/vid.html
