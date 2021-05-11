@@ -1,2 +1,2 @@
 type=picture
-path=media/pic1.png
+path=media/pic2.png
