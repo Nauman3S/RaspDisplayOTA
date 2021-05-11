@@ -1,2 +1,2 @@
 type=website
-path=https://reef.finance
+path=media/vid.html
