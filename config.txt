@@ -1,2 +1,2 @@
-type=picture
-path=media/pic2.png
+type=website
+path=https://reef.finance
